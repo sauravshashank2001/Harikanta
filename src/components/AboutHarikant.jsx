@@ -34,7 +34,7 @@ const AboutHarikanta = () => {
         <div className="w-full md:w-1/2 relative">
           <img
             style={{objectFit:"cover"}}
-            src="/public/infoImage_large.webp"
+            src="/infoImage_large.webp"
             alt="Hotel exterior view"
             className="w-full md:w-[90%] h-full object-cover md:mt-[-10vw]"
           />

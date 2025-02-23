@@ -23,7 +23,7 @@ const Amenities = () => {
             <h2 className="cursive-font text-6xl font-serif italic text-stone-800 mb-12">Amenities</h2>
             <img 
             
-              src="/public/peek2.webp" 
+              src="/peek2.webp" 
               alt="Pool at night" 
               className="w-full h-[500px] object-cover rounded-lg shadow-lg"
             />

@@ -4,9 +4,9 @@ import Carousel from './subComponent/Carousel';
 function HeroSection() {
   const images = [
     "/heroImge.jpg",
-    "/public/info_image1.webp",
-    "/public/peek1.webp",
-    "/public/peek2.webp",
+    "/info_image1.webp",
+    "/peek1.webp",
+    "/peek2.webp",
     // "/cottage_4.jpeg"
     
   ];

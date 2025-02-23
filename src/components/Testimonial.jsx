@@ -13,7 +13,7 @@ const testimonials = [
 const TestimonialCard = ({ name, description }) => (
   <div className="testimonial-card flex-shrink-0 w-64 h-80 bg-gray-100 p-10 rounded-lg shadow-md mx-4">
     <div className="flex items-center mb-5">
-      <img alt="testimonial" src="/public/dog.webp" className="w-12 h-12 rounded-full object-cover" />
+      <img alt="testimonial" src="/dog.webp" className="w-12 h-12 rounded-full object-cover" />
       <div className="pl-4">
         <p className="font-medium text-gray-900">{name}</p>
         <p className="text-gray-500 text-sm">Designer</p>

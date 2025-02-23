@@ -9,7 +9,7 @@ const PetFriendlySection = () => {
           <div className="bg-[#d5d3cc] rounded-lg p-8 flex items-center gap-12" style={{border:"1px solid #b4936f"}}>
             <div className="w-1/2">
               <img
-                src="/public/dog.webp"
+                src="/dog.webp"
                 alt="Dog relaxing on hotel bed"
                 className="w-full h-[400px] object-cover rounded-lg"
               />
@@ -37,7 +37,7 @@ const PetFriendlySection = () => {
       <div className="md:hidden px-4">
         <div className="bg-white rounded-lg p-6 space-y-6">
           <img
-            src="/public/gym.webp"
+            src="/gym.webp"
             alt="Dog relaxing on hotel bed"
             className="w-full h-48 object-cover rounded-lg"
           />

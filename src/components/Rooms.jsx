@@ -3,22 +3,22 @@ import {  ArrowLeftCircle , ArrowRightCircle  } from 'lucide-react';
 import "./common.css"
 const images = [
   {
-    url: '/public/gym.webp',
+    url: '/gym.webp',
     title: 'POOLSIDE RELAXATION',
     index: 1
   },
   {
-    url: '/public/peek1.webp',
+    url: '/peek1.webp',
     title: 'CHIC DINING EXPERIENCES',
     index: 2
   },
   {
-    url: '/public/peek2.webp',
+    url: '/peek2.webp',
     title: 'HOLLYWOOD FITNESS CENTER',
     index: 3
   },
   {
-    url: '/public/peek1.webp',
+    url: '/peek1.webp',
     title: 'LUXURY AMENITIES',
     index: 4
   }

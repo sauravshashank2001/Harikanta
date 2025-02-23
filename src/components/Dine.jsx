@@ -4,17 +4,17 @@ const diningVenues = [
   {
     title: "THE TERRACE",
     description: "The Terrace offers sweeping views of Hollywood Hills and a bustling downtown Los Angeles. The casual menu features light bites inspired by coastal California fare and sharable dishes for friends gathered together. The cocktail program complements sunny days with an extensive rosé program and freshly crafted drinks. With lush surroundings and intimate seating, The Terrace is perfect for a lovely breakfast, a solo work lunch or sunset.",
-    image: "/public/peek1.webp"
+    image: "/peek1.webp"
   },
   {
     title: "BAR LIS",
     description: "A sophisticated rooftop lounge inspired by the French Riviera.The casual menu features light bites inspired by coastal California fare and sharable dishes for friends gathered together. The cocktail program complements sunny days with an extensive rosé program and freshly crafted drinks. With lush surroundings and intimate seating, The Terrace is perfect for a lovely breakfast, a solo work lunch or sunset.",
-    image: "/public/peek2.webp"
+    image: "/peek2.webp"
   },
   {
     title: "LOBBY BAR",
     description: "Elegant craft cocktails in a sophisticated setting.The casual menu features light bites inspired by coastal California fare and sharable dishes for friends gathered together. The cocktail program complements sunny days with an extensive rosé program and freshly crafted drinks. With lush surroundings and intimate seating, The Terrace is perfect for a lovely breakfast, a solo work lunch or sunset.",
-    image: "/public/peek1.webp"
+    image: "/peek1.webp"
   }
 ];
 const diningVenues1 = []

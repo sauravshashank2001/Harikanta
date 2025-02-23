@@ -6,7 +6,7 @@ function IntroJim() {
   return (
     <div className="relative w-full pt-5 bg-amber-50">
       {/* Background Image */}
-      <img  style={{border: "2px solid #b4936f"}} src="/public/jim_corbett.jpg" alt="Jim Corbett" className="w-full h-[70vh] object-cover opacity-50" />
+      <img  style={{border: "2px solid #b4936f"}} src="/jim_corbett.jpg" alt="Jim Corbett" className="w-full h-[70vh] object-cover opacity-50" />
 
       {/* Centered Text */}
       <div className="absolute inset-0 flex items-center justify-center">
@@ -20,7 +20,7 @@ function IntroJim() {
   <div 
     className="absolute inset-0"
     style={{
-      backgroundImage: "url('/public/pattern-gold.svg.png')",
+      backgroundImage: "url('/pattern-gold.svg.png')",
       backgroundSize: "105px 105px",
       backgroundRepeat: "repeat",
       backgroundColor: "#e0dfdb",
