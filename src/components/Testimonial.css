@@ -1,0 +1,26 @@
+.scroll-container {
+    scrollbar-width: none; /* Hide scrollbar for Firefox */
+    -ms-overflow-style: none; /* Hide scrollbar for IE/Edge */
+  }
+  
+  .scroll-container::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for Chrome/Safari */
+  }
+  
+  .testimonial-card {
+    white-space: normal;
+  }
+
+  
+  .testimonialDescription::-webkit-scrollbar{
+    width: 2px;
+    height: 6px;
+  }
+  .testimonialDescription::-webkit-scrollbar-thumb{
+    background-color: rgb(0,0,0,0.2);
+    border-radius: 10px; 
+  }
+
+  .testimonialDescription::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
